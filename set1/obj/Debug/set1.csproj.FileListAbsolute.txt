@@ -1,0 +1,8 @@
+E:\c#\set1\set1\obj\Debug\set1.csproj.AssemblyReference.cache
+E:\c#\set1\set1\obj\Debug\set1.csproj.SuggestedBindingRedirects.cache
+E:\c#\set1\set1\obj\Debug\set1.csproj.CoreCompileInputs.cache
+E:\c#\set1\set1\bin\Debug\set1.exe.config
+E:\c#\set1\set1\bin\Debug\set1.exe
+E:\c#\set1\set1\bin\Debug\set1.pdb
+E:\c#\set1\set1\obj\Debug\set1.exe
+E:\c#\set1\set1\obj\Debug\set1.pdb
